@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Najpick 🎬 Movie Recommender</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark">
+    <header class="hero">
+        <h1>Najpick 🎬</h1>
+        <p>Discover movies you’ll love!</p>
+        <button id="toggleTheme">Toggle Dark/Light</button>
+    </header>
+
+    <section class="search-section">
+        <input type="text" id="movie-input" placeholder="Enter a movie you like">
+        <ul id="suggestions" class="suggestions-list"></ul>
+    </section>
+
+    <section class="recommendations">
+        <h2 id="recommend-title">Recommended Movies:</h2>
+        <ul class="movie-grid" id="movie-grid"></ul>
+    </section>
+
+    <script src="app.js"></script>
+</body>
+</html>
