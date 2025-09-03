@@ -1,0 +1,17 @@
+body.dark { background-color: #141414; color: #fff; font-family: Arial, sans-serif; }
+body.light { background-color: #f0f0f0; color: #000; }
+
+.hero { text-align: center; padding: 2rem; background: linear-gradient(90deg, #e50914, #141414); }
+.hero h1 { font-size: 3rem; }
+.hero button { margin-top: 10px; padding: 0.5rem 1rem; cursor: pointer; }
+
+.search-section { text-align: center; margin: 2rem 0; }
+.search-section input { width: 300px; padding: 0.5rem; border-radius: 5px; border: none; }
+
+.movie-grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(200px,1fr)); gap: 1rem; list-style: none; padding: 0; margin: 1rem; }
+.movie-grid li { background: #222; padding: 1rem; border-radius: 10px; transition: transform 0.3s; }
+.movie-grid li:hover { transform: scale(1.05); }
+.movie-grid img { width: 100%; border-radius: 10px; }
+.movie-title { font-weight: bold; margin: 0.5rem 0; }
+.movie-rating { color: #f5c518; }
+.movie-genre { font-size: 0.9rem; opacity: 0.8; }
