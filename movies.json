@@ -1,0 +1,23 @@
+[
+  {"title":"The Shawshank Redemption","genre":"Drama","rating":9.3,"poster":"https://m.media-amazon.com/images/I/51NiGlapXlL._AC_.jpg"},
+  {"title":"The Godfather","genre":"Crime","rating":9.2,"poster":"https://m.media-amazon.com/images/I/41+eK8zBwQL._AC_.jpg"},
+  {"title":"The Dark Knight","genre":"Action","rating":9.0,"poster":"https://m.media-amazon.com/images/I/51EbJjlLgIL._AC_.jpg"},
+  {"title":"Pulp Fiction","genre":"Crime","rating":8.9,"poster":"https://m.media-amazon.com/images/I/51k0qa8-+kL._AC_.jpg"},
+  {"title":"Inception","genre":"Sci-Fi","rating":8.8,"poster":"https://m.media-amazon.com/images/I/51s+2Dx7dkL._AC_.jpg"},
+  {"title":"The Matrix","genre":"Sci-Fi","rating":8.7,"poster":"https://m.media-amazon.com/images/I/51EG732BV2L._AC_.jpg"},
+  {"title":"Forrest Gump","genre":"Drama","rating":8.8,"poster":"https://m.media-amazon.com/images/I/51k5j+3HqLL._AC_.jpg"},
+  {"title":"The Lord of the Rings: The Return of the King","genre":"Action","rating":8.9,"poster":"https://m.media-amazon.com/images/I/51+5y+f1gAL._AC_.jpg"},
+  {"title":"The Empire Strikes Back","genre":"Action","rating":8.7,"poster":"https://m.media-amazon.com/images/I/51v5ZpYw1zL._AC_.jpg"},
+  {"title":"The Social Network","genre":"Biography","rating":8.0,"poster":"https://m.media-amazon.com/images/I/41J1u0cP0lL._AC_.jpg"},
+  {"title":"The Dark Knight Rises","genre":"Action","rating":8.4,"poster":"https://m.media-amazon.com/images/I/51zUbui+g5L._AC_.jpg"},
+  {"title":"Gladiator","genre":"Action","rating":8.5,"poster":"https://m.media-amazon.com/images/I/51v5ZpYw1zL._AC_.jpg"},
+  {"title":"Interstellar","genre":"Sci-Fi","rating":8.6,"poster":"https://m.media-amazon.com/images/I/51r6z5p4WmL._AC_.jpg"},
+  {"title":"The Prestige","genre":"Drama","rating":8.5,"poster":"https://m.media-amazon.com/images/I/51v5ZpYw1zL._AC_.jpg"},
+  {"title":"The Departed","genre":"Crime","rating":8.5,"poster":"https://m.media-amazon.com/images/I/51v5ZpYw1zL._AC_.jpg"},
+  {"title":"The Lion King","genre":"Animation","rating":8.5,"poster":"https://m.media-amazon.com/images/I/51v5ZpYw1zL._AC_.jpg"},
+  {"title":"The Silence of the Lambs","genre":"Crime","rating":8.6,"poster":"https://m.media-amazon.com/images/I/51v5ZpYw1zL._AC_.jpg"},
+  {"title":"The Green Mile","genre":"Drama","rating":8.6,"poster":"https://m.media-amazon.com/images/I/51v5ZpYw1zL._AC_.jpg"},
+  {"title":"The Usual Suspects","genre":"Crime","rating":8.5,"poster":"https://m.media-amazon.com/images/I/51v5ZpYw1zL._AC_.jpg"},
+  {"title":"The Shining","genre":"Horror","rating":8.4,"poster":"https://m.media-amazon.com/images/I/51v5ZpYw1zL._
+::contentReference[oaicite:0]{index=0}
+ 
